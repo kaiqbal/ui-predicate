@@ -24,8 +24,11 @@
     "codecov": "^3.0.0",
     "hotdoc": "^0.7.2",
     "jsdoc": "^3.5.5",
-    "lerna": "^2.10.2",
+    "lerna": "^2.11.0",
     "parcel": "^1.12.4",
     "updtr": "^3.1.0"
+  },
+  "dependencies": {
+    "python": "0.0.4"
   }
 }
